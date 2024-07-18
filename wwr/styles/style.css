@@ -24,7 +24,7 @@ nav {
 }
 
 .book,.join {
-    background-color:#e66e53;
+    background-color:white;
     color:#000;
     text-decoration:none;
     text-align: center;
@@ -34,7 +34,7 @@ nav {
 }
 
 footer {
-    background-color:#553a34;
+    background-color:#420039;
     color:#252121;
     padding: 25px 50px;
     margin-top: 200px;
@@ -83,7 +83,7 @@ footer a:hover {
 }
 
 nav a:hover,.book:hover,.join:hover {
-    background-color:#C9ADA7;
+    background-color:#420039;
     color:#FFF;
 }
 h4,.msg h2 {
@@ -100,7 +100,7 @@ h4,.msg h2 {
 }
 
 header {
-    background-color:#C9ADA7;
+    background-color:#420039;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -117,7 +117,7 @@ body {
 width:80px;
 }
 .home-title {
-    color:#C9ADA7;
+    color:#420039;
     font-family: Kalam;
     font-size: 2em;
     margin-top: 10px;
@@ -128,7 +128,7 @@ width:80px;
     padding-bottom: 15px;
 }
 .msg {
-    background-color:#C9ADA7;
+    background-color:#420039;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -190,7 +190,7 @@ footer .social img {
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-/* ------------------------- ABOUT US PAGE ------------------------- */
+/* ------------------------- FAQ ------------------------- */
 .title-aboutus {
     text-align: center;
 }
@@ -210,7 +210,7 @@ footer .social img {
     
 }
 .question{
-    background: #C9ADA7;
+    background: #D72638;
     margin: 70px;
     word-wrap: break-word;
     vertical-align: middle;
